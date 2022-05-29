@@ -27,7 +27,8 @@ const about = {
 
 const mySelf = () => {
   return console.log(
-    `My name is ${about.firstName} ${about.lastName}. I am a ${about.stack[0]} developer. I love ${about.favorites[0]} and ${about.favorites[1]}. I am currently learning ${about.stack[5]}.`
+    `My name is ${about.firstName} ${about.lastName}. I am a ${about.stack[0]} developer. 
+    I love ${about.favorites[0]} and ${about.favorites[1]}. I am currently learning ${about.stack[5]}.`
   );
 };
 
