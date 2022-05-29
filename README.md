@@ -15,4 +15,7 @@ I love web development and have specialized in Front-End Engineering. Using the 
 ### 🛠 Skills
 React.js/Redux, Vue.js, JavaScript, HTML5, Tailwind-css, CSS
 
+### Recent Activities
+<!--START_SECTION:activity-->
+
 
