@@ -40,11 +40,11 @@ React.js/Redux, Vue.js, JavaScript, HTML5, Tailwind-css, CSS
 
 ### ⚡ Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/PhinehasSersah/tasker-app/pull/2) in [PhinehasSersah/tasker-app](https://github.com/PhinehasSersah/tasker-app)
-2. 💪 Opened PR [#2](https://github.com/PhinehasSersah/tasker-app/pull/2) in [PhinehasSersah/tasker-app](https://github.com/PhinehasSersah/tasker-app)
-3. 🎉 Merged PR [#1](https://github.com/PhinehasSersah/tasker-app/pull/1) in [PhinehasSersah/tasker-app](https://github.com/PhinehasSersah/tasker-app)
-4. 💪 Opened PR [#1](https://github.com/PhinehasSersah/tasker-app/pull/1) in [PhinehasSersah/tasker-app](https://github.com/PhinehasSersah/tasker-app)
-5. 🎉 Merged PR [#1](https://github.com/PhinehasSersah/space-tourism/pull/1) in [PhinehasSersah/space-tourism](https://github.com/PhinehasSersah/space-tourism)
+1. ❗️ Opened issue [#191](https://github.com/ismail9k/vue3-carousel/issues/191) in [ismail9k/vue3-carousel](https://github.com/ismail9k/vue3-carousel)
+2. 🎉 Merged PR [#2](https://github.com/PhinehasSersah/tasker-app/pull/2) in [PhinehasSersah/tasker-app](https://github.com/PhinehasSersah/tasker-app)
+3. 💪 Opened PR [#2](https://github.com/PhinehasSersah/tasker-app/pull/2) in [PhinehasSersah/tasker-app](https://github.com/PhinehasSersah/tasker-app)
+4. 🎉 Merged PR [#1](https://github.com/PhinehasSersah/tasker-app/pull/1) in [PhinehasSersah/tasker-app](https://github.com/PhinehasSersah/tasker-app)
+5. 💪 Opened PR [#1](https://github.com/PhinehasSersah/tasker-app/pull/1) in [PhinehasSersah/tasker-app](https://github.com/PhinehasSersah/tasker-app)
 <!--END_SECTION:activity-->
 
 
