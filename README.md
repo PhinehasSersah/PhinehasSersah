@@ -89,20 +89,6 @@ Currently deepening: **platform engineering**, **observability**, and **cost-awa
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=DC382D)
 
----
-
-## ▸ 04 · FEATURED SYSTEMS
-
-> [!NOTE]
-> **`[ TODO — REPLACE BEFORE SHARING ]`** Swap these rows for 3–4 real projects. For each one, lead with the *outcome*, not the feature list. A recruiter remembers "cut deploy time 90%"; they forget "built with React."
-
-| System | Stack | What It Does |
-| :--- | :--- | :--- |
-| **[Project Name](https://github.com/PhinehasSersah)** | `React` `Node.js` `AWS` | One line on the problem it solves and the measurable result — latency cut, users served, cost saved. |
-| **[Project Name](https://github.com/PhinehasSersah)** | `Next.js` `TypeScript` `Postgres` | One line on the problem it solves and the measurable result. |
-| **[Project Name](https://github.com/PhinehasSersah)** | `Terraform` `Docker` `GitHub Actions` | One line on the problem it solves and the measurable result. |
-
----
 
 ## ▸ 05 · TELEMETRY
 
@@ -141,7 +127,7 @@ Currently deepening: **platform engineering**, **observability**, and **cost-awa
 
 **Hiring, collaborating, or just want to talk systems? The channel is open.**
 
-<a href="https://linkedin.com/in/phinehassersah">
+<a href="https://www.linkedin.com/in/phinehas-sersah-620a8013b/">
   <img src="https://img.shields.io/badge/LinkedIn-phinehassersah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
 </a>
 <a href="mailto:phine.amd@gmail.com">
